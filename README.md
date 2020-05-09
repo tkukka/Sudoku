@@ -5,7 +5,7 @@ Ubuntu 18.04.4 LTS
 Python 3.6.9  
 Numpy 1.13.3  
 
-Console UI
+Console UI based, a simple sudoku program for creating, loading and finally, solving by computer.
 
 ### Links
 [Donald E. Knuth - Preprints of Recent Papers](https://www-cs-faculty.stanford.edu/~knuth/preprints.html)  
